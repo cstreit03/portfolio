@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: pfp.jpg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm **Caleb Streit**, an experienced and dedicated technology professional with a strong foundation in **networking**, **cloud solutions**, and **information security**. In my years of experience, I have earned certifications including **CompTIA A+**, **Network+**, and **Security+**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In August 2025, I earned my **Bachelor of Science in Computer and Information Science** with a major in Cyber and Information Security Technology from [ECPI University](https://ecpi.edu).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Please explore this online portfolio created with open-source resources. Feel free to connect with me on [LinkedIn](https://linkedin.com)!
