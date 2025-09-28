@@ -67,6 +67,9 @@ ninja.data = [{
             },},{id: "news-welcome-to-the-new-website-it-is-currently-under-development-but-will-be-updated-soon",
           title: 'Welcome to the new website! It is currently under development but will be...',
           description: "",
+          section: "News",},{id: "news-welcome-to-the-new-website-i-ve-updated-my-website-to-include-more-details-about-myself-and-integrate-with-some-of-the-platforms-i-use-feel-free-to-take-a-look-around",
+          title: 'Welcome to the new website! I’ve updated my website to include more details...',
+          description: "",
           section: "News",},{
         id: 'social-discord',
         title: 'Discord',
