@@ -122,52 +122,24 @@
   ],
   "certificates": [
     {
-      "name": "CompTIA A+",
+      "name": "RingCentral Admin Certified (MVP Basics)",
       "date": "",
-      "issuer": "CompTIA",
-      "url": "https://www.credly.com/badges/aefd8efd-9f67-475f-b11e-53c2122c2e07",
-      "icon": "/assets/img/certs/comptia-a.png"
+      "issuer": "RingCentral",
+      "url": "http://verify.skilljar.com/c/yw5p4hc8qr6j",
+      "icon": "/assets/img/certs/ringcentral.png"
     },
     {
-      "name": "CompTIA Network+",
+      "name": "IT Specialist - Python",
       "date": "",
-      "issuer": "CompTIA",
-      "url": "https://www.credly.com/badges/5d5436f7-a671-4dd8-aeb6-3971ce794717",
-      "icon": "/assets/img/certs/comptia-network.png"
+      "issuer": "Certiport",
+      "url": "https://www.credly.com/badges/9884ba80-7eb0-4849-8aaf-76d3c59ab800",
+      "icon": "/assets/img/certs/its-python.png"
     },
     {
-      "name": "CompTIA Security+",
-      "date": "",
-      "issuer": "CompTIA",
-      "url": "https://www.credly.com/badges/5949c855-f04b-48fd-a518-ec38ad1f970e/",
-      "icon": "/assets/img/certs/comptia-security.png"
-    },
-    {
-      "name": "ISC2 Certified in Cybersecurity (CC)",
-      "date": "",
-      "issuer": "ISC2",
-      "url": "https://www.credly.com/badges/b94fbcfe-554c-4464-abf5-dc4ffd5e9fbf",
-      "icon": "/assets/img/certs/isc2-cc.png"
-    },
-    {
-      "name": "Microsoft 365 Certified: Fundamentals",
-      "date": "",
-      "issuer": "Microsoft",
-      "url": "https://www.credly.com/badges/3283898d-09e9-4e74-bbba-e3f26a957fb9",
-      "icon": "/assets/img/certs/ms-900.webp"
-    },
-    {
-      "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
-      "date": "",
-      "issuer": "Microsoft",
-      "url": "https://www.credly.com/badges/8686df3e-b366-4e3d-abac-ff54e21b01c1",
-      "icon": "/assets/img/certs/sc-900.webp"
-    },
-    {
-      "name": "NVIDIA Generative AI with Diffusion Models",
+      "name": "NVIDIA Fundamentals of Deep Learning",
       "date": "",
       "issuer": "NVIDIA",
-      "url": "https://learn.nvidia.com/certificates?id=zc68p5yVQdGn7aWubT77-Q",
+      "url": "https://learn.nvidia.com/certificates?id=YI_-FSwNRg-O5nJ3-eoCeA",
       "icon": "/assets/img/certs/nvidia.png"
     },
     {
@@ -178,25 +150,53 @@
       "icon": "/assets/img/certs/nvidia.png"
     },
     {
-      "name": "NVIDIA Fundamentals of Deep Learning",
+      "name": "NVIDIA Generative AI with Diffusion Models",
       "date": "",
       "issuer": "NVIDIA",
-      "url": "https://learn.nvidia.com/certificates?id=YI_-FSwNRg-O5nJ3-eoCeA",
+      "url": "https://learn.nvidia.com/certificates?id=zc68p5yVQdGn7aWubT77-Q",
       "icon": "/assets/img/certs/nvidia.png"
     },
     {
-      "name": "IT Specialist - Python",
+      "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
       "date": "",
-      "issuer": "Certiport",
-      "url": "https://www.credly.com/badges/9884ba80-7eb0-4849-8aaf-76d3c59ab800",
-      "icon": "/assets/img/certs/its-python.png"
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/8686df3e-b366-4e3d-abac-ff54e21b01c1",
+      "icon": "/assets/img/certs/sc-900.webp"
     },
     {
-      "name": "RingCentral Admin Certified (MVP Basics)",
+      "name": "Microsoft 365 Certified: Fundamentals",
       "date": "",
-      "issuer": "RingCentral",
-      "url": "http://verify.skilljar.com/c/yw5p4hc8qr6j",
-      "icon": "/assets/img/certs/ringcentral.png"
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/3283898d-09e9-4e74-bbba-e3f26a957fb9",
+      "icon": "/assets/img/certs/ms-900.webp"
+    },
+    {
+      "name": "ISC2 Certified in Cybersecurity (CC)",
+      "date": "",
+      "issuer": "ISC2",
+      "url": "https://www.credly.com/badges/b94fbcfe-554c-4464-abf5-dc4ffd5e9fbf",
+      "icon": "/assets/img/certs/isc2-cc.png"
+    },
+    {
+      "name": "CompTIA Security+",
+      "date": "",
+      "issuer": "CompTIA",
+      "url": "https://www.credly.com/badges/5949c855-f04b-48fd-a518-ec38ad1f970e/",
+      "icon": "/assets/img/certs/comptia-security.png"
+    },
+    {
+      "name": "CompTIA Network+",
+      "date": "",
+      "issuer": "CompTIA",
+      "url": "https://www.credly.com/badges/5d5436f7-a671-4dd8-aeb6-3971ce794717",
+      "icon": "/assets/img/certs/comptia-network.png"
+    },
+    {
+      "name": "CompTIA A+",
+      "date": "",
+      "issuer": "CompTIA",
+      "url": "https://www.credly.com/badges/aefd8efd-9f67-475f-b11e-53c2122c2e07",
+      "icon": "/assets/img/certs/comptia-a.png"
     }
   ],
   "volunteer": [
@@ -269,7 +269,7 @@
         "Google Workspace",
         "RingCentral",
         "Zoom Phones",
-        "Microsoft Office"
+        "Microsoft Office Suite"
       ]
     },
     {
