@@ -123,77 +123,77 @@
   "certificates": [
     {
       "name": "CompTIA A+",
-      "date": "2025-02",
+      "date": "",
       "issuer": "CompTIA",
       "url": "https://www.credly.com/badges/aefd8efd-9f67-475f-b11e-53c2122c2e07",
       "icon": "/assets/img/certs/comptia-a.png"
     },
     {
       "name": "CompTIA Network+",
-      "date": "2024-08",
+      "date": "",
       "issuer": "CompTIA",
       "url": "https://www.credly.com/badges/5d5436f7-a671-4dd8-aeb6-3971ce794717",
       "icon": "/assets/img/certs/comptia-network.png"
     },
     {
       "name": "CompTIA Security+",
-      "date": "2024-04",
+      "date": "",
       "issuer": "CompTIA",
       "url": "https://www.credly.com/badges/5949c855-f04b-48fd-a518-ec38ad1f970e/",
       "icon": "/assets/img/certs/comptia-security.png"
     },
     {
       "name": "ISC2 Certified in Cybersecurity (CC)",
-      "date": "2024-04",
+      "date": "",
       "issuer": "ISC2",
       "url": "https://www.credly.com/badges/b94fbcfe-554c-4464-abf5-dc4ffd5e9fbf",
       "icon": "/assets/img/certs/isc2-cc.png"
     },
     {
       "name": "Microsoft 365 Certified: Fundamentals",
-      "date": "2023-06",
+      "date": "",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/3283898d-09e9-4e74-bbba-e3f26a957fb9",
       "icon": "/assets/img/certs/ms-900.webp"
     },
     {
       "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
-      "date": "2023-06",
+      "date": "",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/8686df3e-b366-4e3d-abac-ff54e21b01c1",
       "icon": "/assets/img/certs/sc-900.webp"
     },
     {
       "name": "NVIDIA Generative AI with Diffusion Models",
-      "date": "2025-01",
+      "date": "",
       "issuer": "NVIDIA",
       "url": "https://learn.nvidia.com/certificates?id=zc68p5yVQdGn7aWubT77-Q",
       "icon": "/assets/img/certs/nvidia.png"
     },
     {
       "name": "NVIDIA Applications of AI for Anomaly Detection",
-      "date": "2024-08",
+      "date": "",
       "issuer": "NVIDIA",
       "url": "https://learn.nvidia.com/certificates?id=LPXHqpEKRu6u2VBAAKMvTg",
       "icon": "/assets/img/certs/nvidia.png"
     },
     {
       "name": "NVIDIA Fundamentals of Deep Learning",
-      "date": "2024-06",
+      "date": "",
       "issuer": "NVIDIA",
       "url": "https://learn.nvidia.com/certificates?id=YI_-FSwNRg-O5nJ3-eoCeA",
       "icon": "/assets/img/certs/nvidia.png"
     },
     {
       "name": "IT Specialist - Python",
-      "date": "2023-12",
+      "date": "",
       "issuer": "Certiport",
       "url": "https://www.credly.com/badges/9884ba80-7eb0-4849-8aaf-76d3c59ab800",
       "icon": "/assets/img/certs/its-python.png"
     },
     {
       "name": "RingCentral Admin Certified (MVP Basics)",
-      "date": "2022-11",
+      "date": "",
       "issuer": "RingCentral",
       "url": "http://verify.skilljar.com/c/yw5p4hc8qr6j",
       "icon": "/assets/img/certs/ringcentral.png"
@@ -206,7 +206,7 @@
       "url": "#",
       "startDate": "2016",
       "endDate": "2021",
-      "summary": "Volunteered in the Civil Air Patrol cadet program, the auxiliary of the U.S. Air Force. Held staff positions including Logistics NCO, IT Officer, Color Guard Commander, Flight Commander, and Cadet Advisory Council representative from 2016 to 2021.",
+      "summary": "Volunteered in the Civil Air Patrol cadet program, the auxiliary of the U.S. Air Force. Held staff positions including Logistics NCO, IT Officer, Color Guard Commander, Flight Commander, and Cadet Advisory Council representative for MAR-NC-145.",
       "highlights": []
     }
   ],
@@ -269,7 +269,7 @@
         "Google Workspace",
         "RingCentral",
         "Zoom Phones",
-        "Microsoft: Visio, Word, Excel, PowerPoint, Outlook, Access, Teams"
+        "Microsoft Office"
       ]
     },
     {
