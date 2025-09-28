@@ -3,7 +3,7 @@
     "name": "Caleb Streit",
     "label": "Network & Cyber Support Specialist",
     "image": "",
-    "email": "contact@cstreit.com",
+    "email": "calebjstreit@gmail.com",
     "phone": "",
     "url": "https://cstreit.com",
     "summary": "Motivated information technology/security professional with hands-on experience in network security, system administration, and technical support across many technical environments. Skilled in managing and securing infrastructure, including firewalls, VPNs, cloud platforms, and Microsoft environments. Proven ability to lead security projects, deploy and maintain network devices, and support enterprise IT systems. Holds a B.S. in Cyber and Information Security Technology and multiple certifications including Security+, Network+, and A+.",
@@ -26,202 +26,177 @@
     {
       "name": "NetSmart, Inc",
       "position": "Network & Cyber Support Specialist",
-      "url": "",
-      "startDate": "2025-07-01",
-      "endDate": "2025-09-27",
+      "startDate": "2025-07",
+      "endDate": "2025-09",
       "summary": "",
       "highlights": []
     },
     {
       "name": "JiLaSoan Technologies",
       "position": "Technical Support Specialist",
-      "url": "",
-      "startDate": "2022-11-01",
-      "endDate": "2025-07-01",
-      "summary": "Administered Active Directory, Entra ID, Microsoft 365, Google Workspace, VOIP systems, and other cloud software for customers. Adjusted licensing, users, groups, and settings according to customer needs.",
+      "startDate": "2022-11",
+      "endDate": "2025-07",
+      "summary": "",
       "highlights": [
-        "Administered Active Directory, Entra ID, Microsoft 365, Google Workspace, and VOIP systems for customers.",
-        "Adjusted licensing, users, groups, and settings according to customer needs."
+        "Monitors servers and networks daily to ensure customers have maximum availability.",
+        "Saves thousands of dollars for customers by negotiating contracts, recommending alternative solutions, and auditing systems for unnecessary licenses or services.",
+        "Prioritizes meetings, projects, and tickets to focus on urgent issues and meet deadlines.",
+        "Deploys and maintains servers, firewalls, routers, and switches according to product lifecycles.",
+        "Administers Active Directory, Azure, Microsoft 365, Google Workspace, and VOIP systems for 15 customers and adjusts licensing, users, groups, and settings according to customer needs.",
+        "Manages escalation requests from Tier I technicians and quickly provides solutions.",
+        "Standardizes procedures for configuring and securing servers, firewalls, routers, switches, cloud applications, and computer endpoints.",
+        "Tests and implements new technologies to ensure they align with customer needs and policies.",
+        "Leads projects to secure and protect customer IT infrastructure."
       ]
     },
     {
       "name": "Surveying Solutions, Bolton & Menk, Inc.",
       "position": "Office Administrative Assistant",
-      "url": "",
-      "startDate": "2021-07-01",
-      "endDate": "2022-11-01",
+      "startDate": "2021-07",
+      "endDate": "2022-11",
       "summary": "Provided excellent customer service via phone and email to address customer requests regarding projects, schedules, and cost estimates. Redesigned the company website which increased SEO rankings and generated more leads.",
       "highlights": [
-        "Provided excellent customer service via phone and email.",
-        "Redesigned the company website which increased SEO rankings and generated more leads."
+        "Provided excellent customer service via phone and email to address customer requests regarding projects, schedules, and cost estimates.",
+        "Redesigned the company website which increased SEO rankings and generated more leads.",
+        "Entered opportunities into the CRM and assisted project managers with plans and schedules.",
+        "Organized the equipment storage rooms and conducted periodic safety audits."
       ]
     },
     {
       "name": "NetSmart, Inc",
       "position": "Computer Hardware Technician",
-      "url": "",
-      "startDate": "2022-02-01",
-      "endDate": "2022-06-01",
+      "startDate": "2022-02",
+      "endDate": "2022-06",
       "summary": "Disassembled laptops and desktops to upgrade or replace CPUs, RAM, and HDD/SSD storage. Performed clean installs of operating systems on new equipment to minimize supply chain risks and remove bloatware. Created user accounts, configured group policy, adjusted BIOS settings, installed patches, and updated system drivers.",
       "highlights": [
-        "Disassembled laptops and desktops to upgrade or replace CPUs, RAM, and storage.",
-        "Performed clean installs of operating systems on new equipment.",
-        "Created user accounts, configured group policy, and adjusted BIOS settings."
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Civil Air Patrol",
-      "location": "",
-      "position": "Logistics NCO, IT Officer, Color Guard Commander, and Flight Commander",
-      "url": "",
-      "startDate": "2016-01-01",
-      "endDate": "2021-01-01",
-      "summary": "Volunteered in the Civil Air Patrol cadet program, the auxiliary of the U.S. Air Force. Held staff positions including Logistics NCO, IT Officer, Color Guard Commander, and Flight Commander from 2016 to 2021.",
-      "highlights": [
-        "Held multiple leadership positions within the Civil Air Patrol."
+        "Disassembled laptops and desktops to upgrade or replace CPUs, RAM, and HDD/SSD storage.",
+        "Re-imaged new computer systems to minimize supply chain risks and remove bloatware.",
+        "Created user accounts, configured group policy, adjusted BIOS settings, installed patches, and updated system drivers.",
+        "Visited customers to install computers and monitors in their offices."
       ]
     }
   ],
   "education": [
     {
       "institution": "ECPI University",
-      "location": "Raleigh, NC",
-      "url": "https://ecpi.edu",
+      "url": "https://www.parchment.com/u/award/8d730e249abf26644ef4b10b60363daf",
       "area": "Cyber & Information Security Technology",
       "studyType": "Bachelor of Science - BS",
-      "startDate": "2021-07-01",
-      "endDate": "2025-08-31",
-      "score": "",
-      "courses": [
-        "Applied Project Management",
-        "Cisco Networking"
-      ]
+      "endDate": "2025",
+      "score": "4.0 GPA"
     },
     {
       "institution": "Wake Technical Community College",
-      "location": "",
-      "url": "",
       "area": "Information Technology: Info Technologies Foundations",
       "studyType": "Certificate",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
-      "courses": []
+      "endDate": "2023"
     }
   ],
   "awards": [
     {
+      "title": "Dean's List",
+      "date": "2025",
+      "awarder": "ECPI University",
+      "summary": "Recognized for high academic performance throughout the duration of my bachelor's degree program at ECPI University.",
+    },
+    {
       "title": "CyberPatriot Competition",
       "date": "2021",
       "awarder": "CyberPatriot",
-      "url": "",
       "summary": "Our team placed 2nd in the NC Gold Tier All-Service division during the 2020-2021 competition.",
-      "icon": ""
-    },
-    {
-      "title": "Dean's List",
-      "date": "2024-2025",
-      "awarder": "ECPI University",
-      "url": "",
-      "summary": "Recognized for high academic performance throughout the duration of my bachelor's degree program at ECPI University.",
-      "icon": ""
     }
   ],
   "certificates": [
     {
       "name": "CompTIA A+",
-      "date": "February 2025",
+      "date": "2025-02",
       "issuer": "CompTIA",
       "url": "https://www.credly.com/badges/aefd8efd-9f67-475f-b11e-53c2122c2e07",
       "icon": "./images/certs/comptia-a.png"
     },
     {
       "name": "CompTIA Network+",
-      "date": "August 2024",
+      "date": "2024-08",
       "issuer": "CompTIA",
       "url": "https://www.credly.com/badges/5d5436f7-a671-4dd8-aeb6-3971ce794717",
       "icon": "./images/certs/comptia-network.png"
     },
     {
       "name": "CompTIA Security+",
-      "date": "April 2024",
+      "date": "2024-04",
       "issuer": "CompTIA",
       "url": "https://www.credly.com/badges/5949c855-f04b-48fd-a518-ec38ad1f970e/",
       "icon": "./images/certs/comptia-security.png"
     },
     {
-      "name": "ISC2 CC",
-      "date": "April 2024",
+      "name": "ISC2 Certified in Cybersecurity (CC)",
+      "date": "2024-04",
       "issuer": "ISC2",
       "url": "https://www.credly.com/badges/b94fbcfe-554c-4464-abf5-dc4ffd5e9fbf",
       "icon": "./images/certs/isc2-cc.png"
     },
     {
-      "name": "Microsoft MS-900",
-      "date": "June 2023",
+      "name": "Microsoft 365 Certified: Fundamentals",
+      "date": "2023-06",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/3283898d-09e9-4e74-bbba-e3f26a957fb9",
       "icon": "./images/certs/ms-900.webp"
     },
     {
-      "name": "Microsoft SC-900",
-      "date": "June 2023",
+      "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+      "date": "2023-06",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/8686df3e-b366-4e3d-abac-ff54e21b01c1",
       "icon": "./images/certs/sc-900.webp"
     },
     {
       "name": "NVIDIA Generative AI with Diffusion Models",
-      "date": "January 2025",
+      "date": "2025-01",
       "issuer": "NVIDIA",
       "url": "https://learn.nvidia.com/certificates?id=zc68p5yVQdGn7aWubT77-Q",
       "icon": "./images/certs/nvidia.png"
     },
     {
       "name": "NVIDIA Applications of AI for Anomaly Detection",
-      "date": "August 2024",
+      "date": "2024-08",
       "issuer": "NVIDIA",
       "url": "https://learn.nvidia.com/certificates?id=LPXHqpEKRu6u2VBAAKMvTg",
       "icon": "./images/certs/nvidia.png"
     },
     {
       "name": "NVIDIA Fundamentals of Deep Learning",
-      "date": "August 2024",
+      "date": "2024-06",
       "issuer": "NVIDIA",
       "url": "https://learn.nvidia.com/certificates?id=YI_-FSwNRg-O5nJ3-eoCeA",
       "icon": "./images/certs/nvidia.png"
     },
     {
       "name": "IT Specialist - Python",
-      "date": "December 2023",
+      "date": "2023-12",
       "issuer": "ITS",
       "url": "https://www.credly.com/badges/9884ba80-7eb0-4849-8aaf-76d3c59ab800",
       "icon": "./images/certs/its-python.png"
     },
     {
       "name": "RingCentral Admin Certified (MVP Basics)",
-      "date": "November 2022",
+      "date": "2022-11",
       "issuer": "RingCentral",
       "url": "http://verify.skilljar.com/c/yw5p4hc8qr6j",
       "icon": "./images/certs/ringcentral.png"
     }
   ],
-  "publications": [
+  "publications": [  ],
+  
+  "volunteer": [
     {
-      "name": "Credited for drone photography of the Calvin Jones House",
-      "publisher": "N/A",
-      "releaseDate": "",
-      "url": "https://wakeforestmuseum.org/the-calvin-jones-house/",
-      "summary": "Offered to take photos and videos of the Calvin Jones House with my drone. Afterwards, I edited and provided the results to the friendly staff at the Wake Forest Historical Museum. They used these images and videos for their website and social media pages.Offered to take photos and videos of the Calvin Jones House with my drone. Afterwards, I edited and provided the results to the friendly staff at the Wake Forest Historical Museum. They used these images and videos for their website and social media pages."
-    },
-    {
-      "name": "2025 Cyber Sentinel Challenge",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "https://cstreit.medium.com/2025-cyber-sentinel-challenge-hoasted-toasted-write-up-f7d134192ff9",
-      "summary": "Upon completion of the 2025 Cyber Sentinel Challenge, I created a write-up for the “Hoasted Toasted” challenge to help others learn how to complete the challenge.Upon completion of the 2025 Cyber Sentinel Challenge, I created a write-up for the “Hoasted Toasted” challenge to help others learn how to complete the challenge."
+      "organization": "Civil Air Patrol",
+      "position": "Logistics NCO, IT Officer, Color Guard Commander, and Flight Commander",
+      "startDate": "2016",
+      "endDate": "2021",
+      "summary": "Volunteered in the Civil Air Patrol cadet program, the auxiliary of the U.S. Air Force. Held staff positions including Logistics NCO, IT Officer, Color Guard Commander, and Flight Commander from 2016 to 2021.",
+      "highlights": [
+        "Held multiple leadership positions within the Civil Air Patrol."
+      ]
     }
   ],
   "skills": [
@@ -259,19 +234,6 @@
         "SonicWall firewalls",
         "Palo Alto firewalls",
         "Ubiquiti networks"
-      ]
-    },
-    {
-      "name": "Operating Systems",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "Windows 7, 10, and 11",
-        "Ubuntu Linux",
-        "Kali Linux",
-        "macOS",
-        "Windows Server 2012, 2016, 2022, and 2025",
-        "Cisco IOS"
       ]
     },
     {
@@ -318,10 +280,24 @@
         "Microsoft Planner",
         "Salesforce"
       ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Windows 7, 10, and 11",
+        "Ubuntu Linux",
+        "Kali Linux",
+        "macOS, iOS, and iPadOS",
+        "Windows Server 2012-2025",
+        "Cisco IOS",
+        "Android"
+      ]
     }
   ],
   "languages": [],
   "interests": [],
   "references": [],
-  "projects": [ ]
+  "projects": []
 }
