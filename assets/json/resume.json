@@ -217,19 +217,7 @@
       "name": "Protocols & IP",
       "level": "",
       "icon": "",
-      "keywords": [
-        "FTP",
-        "DNS",
-        "LDAP",
-        "DHCP",
-        "SMB",
-        "SMTP",
-        "HTTP/HTTPS",
-        "RDP",
-        "SSH",
-        "RADIUS",
-        "SAML"
-      ]
+      "keywords": ["FTP", "DNS", "LDAP", "DHCP", "SMB", "SMTP", "HTTP/HTTPS", "RDP", "SSH", "RADIUS", "SAML"]
     },
     {
       "name": "APIs & Networks",
@@ -267,17 +255,7 @@
       "name": "Tools and Utilities",
       "level": "",
       "icon": "",
-      "keywords": [
-        "PowerShell",
-        "Bash",
-        "Python",
-        "tracert",
-        "ping",
-        "nslookup",
-        "Wireshark",
-        "Nmap",
-        "PuTTY"
-      ]
+      "keywords": ["PowerShell", "Bash", "Python", "tracert", "ping", "nslookup", "Wireshark", "Nmap", "PuTTY"]
     },
     {
       "name": "Managed Software",
@@ -299,14 +277,7 @@
       "name": "Project Management",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Slack",
-        "Zoom",
-        "Microsoft Teams",
-        "Trello",
-        "Microsoft Planner",
-        "Salesforce"
-      ]
+      "keywords": ["Slack", "Zoom", "Microsoft Teams", "Trello", "Microsoft Planner", "Salesforce"]
     }
   ],
   "languages": [],
