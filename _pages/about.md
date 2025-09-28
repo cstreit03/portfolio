@@ -26,8 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
 Hello! I'm **Caleb Streit**, an experienced and dedicated technology professional with a strong foundation in **networking**, **cloud solutions**, and **information security**. In my years of experience, I have earned certifications including **CompTIA A+**, **Network+**, and **Security+**.
 
 In August 2025, I earned my **Bachelor of Science in Computer and Information Science** with a major in Cyber and Information Security Technology from [ECPI University](https://ecpi.edu).
 
 Please explore this online portfolio created with open-source resources. Feel free to connect with me on [LinkedIn](https://linkedin.com)!
+
