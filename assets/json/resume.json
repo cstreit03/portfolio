@@ -26,7 +26,6 @@
     {
       "name": "NetSmart, Inc",
       "position": "Network & Cyber Support Specialist",
-      "url": "#",
       "startDate": "2025-07",
       "endDate": "2025-09",
       "summary": "",
@@ -83,7 +82,6 @@
   "education": [
     {
       "institution": "ECPI University",
-      "location": "#",
       "url": "https://www.parchment.com/u/award/8d730e249abf26644ef4b10b60363daf",
       "area": "Cyber & Information Security Technology",
       "studyType": "Bachelor of Science - BS",
@@ -128,80 +126,80 @@
       "date": "2025-02",
       "issuer": "CompTIA",
       "url": "https://www.credly.com/badges/aefd8efd-9f67-475f-b11e-53c2122c2e07",
-      "icon": "./images/certs/comptia-a.png"
+      "icon": "./assets/img/certs/comptia-a.png"
     },
     {
       "name": "CompTIA Network+",
       "date": "2024-08",
       "issuer": "CompTIA",
       "url": "https://www.credly.com/badges/5d5436f7-a671-4dd8-aeb6-3971ce794717",
-      "icon": "./images/certs/comptia-network.png"
+      "icon": "./assets/img/certs/comptia-network.png"
     },
     {
       "name": "CompTIA Security+",
       "date": "2024-04",
       "issuer": "CompTIA",
       "url": "https://www.credly.com/badges/5949c855-f04b-48fd-a518-ec38ad1f970e/",
-      "icon": "./images/certs/comptia-security.png"
+      "icon": "./assets/img/certs/comptia-security.png"
     },
     {
       "name": "ISC2 Certified in Cybersecurity (CC)",
       "date": "2024-04",
       "issuer": "ISC2",
       "url": "https://www.credly.com/badges/b94fbcfe-554c-4464-abf5-dc4ffd5e9fbf",
-      "icon": "./images/certs/isc2-cc.png"
+      "icon": "./assets/img/certs/isc2-cc.png"
     },
     {
       "name": "Microsoft 365 Certified: Fundamentals",
       "date": "2023-06",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/3283898d-09e9-4e74-bbba-e3f26a957fb9",
-      "icon": "./images/certs/ms-900.webp"
+      "icon": "./assets/img/certs/ms-900.webp"
     },
     {
       "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
       "date": "2023-06",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/8686df3e-b366-4e3d-abac-ff54e21b01c1",
-      "icon": "./images/certs/sc-900.webp"
+      "icon": "./assets/img/certs/sc-900.webp"
     },
     {
       "name": "NVIDIA Generative AI with Diffusion Models",
       "date": "2025-01",
       "issuer": "NVIDIA",
       "url": "https://learn.nvidia.com/certificates?id=zc68p5yVQdGn7aWubT77-Q",
-      "icon": "./images/certs/nvidia.png"
+      "icon": "./assets/img/certs/nvidia.png"
     },
     {
       "name": "NVIDIA Applications of AI for Anomaly Detection",
       "date": "2024-08",
       "issuer": "NVIDIA",
       "url": "https://learn.nvidia.com/certificates?id=LPXHqpEKRu6u2VBAAKMvTg",
-      "icon": "./images/certs/nvidia.png"
+      "icon": "./assets/img/certs/nvidia.png"
     },
     {
       "name": "NVIDIA Fundamentals of Deep Learning",
       "date": "2024-06",
       "issuer": "NVIDIA",
       "url": "https://learn.nvidia.com/certificates?id=YI_-FSwNRg-O5nJ3-eoCeA",
-      "icon": "./images/certs/nvidia.png"
+      "icon": "./assets/img/certs/nvidia.png"
     },
     {
       "name": "IT Specialist - Python",
       "date": "2023-12",
       "issuer": "ITS",
       "url": "https://www.credly.com/badges/9884ba80-7eb0-4849-8aaf-76d3c59ab800",
-      "icon": "./images/certs/its-python.png"
+      "icon": "./assets/img/certs/its-python.png"
     },
     {
       "name": "RingCentral Admin Certified (MVP Basics)",
       "date": "2022-11",
       "issuer": "RingCentral",
       "url": "http://verify.skilljar.com/c/yw5p4hc8qr6j",
-      "icon": "./images/certs/ringcentral.png"
+      "icon": "./assets/img/certs/ringcentral.png"
     }
   ],
-    "volunteer": [
+  "volunteer": [
     {
       "organization": "Civil Air Patrol",
       "location": "",
