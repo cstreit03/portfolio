@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cstreit03.github.io/sitemap.xml
+Sitemap: https://cstreit.com/sitemap.xml
