@@ -2,14 +2,14 @@
   "basics": {
     "name": "Caleb Streit",
     "label": "Network & Cyber Support Specialist",
-    "image": "",
-    "email": "calebjstreit@gmail.com",
-    "phone": "",
+    "image": null,
+    "email": "contact@cstreit.com",
+    "phone": null,
     "url": "https://cstreit.com",
     "summary": "Motivated information technology/security professional with hands-on experience in network security, system administration, and technical support across many technical environments. Skilled in managing and securing infrastructure, including firewalls, VPNs, cloud platforms, and Microsoft environments. Proven ability to lead security projects, deploy and maintain network devices, and support enterprise IT systems. Holds a B.S. in Cyber and Information Security Technology and multiple certifications including Security+, Network+, and A+.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": null,
+      "postalCode": null,
       "city": "Raleigh",
       "countryCode": "US",
       "region": "NC"
@@ -26,17 +26,19 @@
     {
       "name": "NetSmart, Inc",
       "position": "Network & Cyber Support Specialist",
+      "url": null,
       "startDate": "2025-07",
       "endDate": "2025-09",
-      "summary": "",
+      "summary": null,
       "highlights": []
     },
     {
       "name": "JiLaSoan Technologies",
       "position": "Technical Support Specialist",
+      "url": null,
       "startDate": "2022-11",
       "endDate": "2025-07",
-      "summary": "",
+      "summary": null,
       "highlights": [
         "Monitors servers and networks daily to ensure customers have maximum availability.",
         "Saves thousands of dollars for customers by negotiating contracts, recommending alternative solutions, and auditing systems for unnecessary licenses or services.",
@@ -52,6 +54,7 @@
     {
       "name": "Surveying Solutions, Bolton & Menk, Inc.",
       "position": "Office Administrative Assistant",
+      "url": null,
       "startDate": "2021-07",
       "endDate": "2022-11",
       "summary": "Provided excellent customer service via phone and email to address customer requests regarding projects, schedules, and cost estimates. Redesigned the company website which increased SEO rankings and generated more leads.",
@@ -65,6 +68,7 @@
     {
       "name": "NetSmart, Inc",
       "position": "Computer Hardware Technician",
+      "url": null,
       "startDate": "2022-02",
       "endDate": "2022-06",
       "summary": "Disassembled laptops and desktops to upgrade or replace CPUs, RAM, and HDD/SSD storage. Performed clean installs of operating systems on new equipment to minimize supply chain risks and remove bloatware. Created user accounts, configured group policy, adjusted BIOS settings, installed patches, and updated system drivers.",
@@ -76,20 +80,40 @@
       ]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Civil Air Patrol",
+      "location": null,
+      "position": "Logistics NCO, IT Officer, Color Guard Commander, and Flight Commander",
+      "url": null,
+      "startDate": "2016",
+      "endDate": "2021",
+      "summary": "Volunteered in the Civil Air Patrol cadet program, the auxiliary of the U.S. Air Force. Held staff positions including Logistics NCO, IT Officer, Color Guard Commander, and Flight Commander from 2016 to 2021.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "ECPI University",
+      "location": null,
       "url": "https://www.parchment.com/u/award/8d730e249abf26644ef4b10b60363daf",
       "area": "Cyber & Information Security Technology",
       "studyType": "Bachelor of Science - BS",
+      "startDate": null,
       "endDate": "2025",
-      "score": "4.0 GPA"
+      "score": "4.0 GPA",
+      "courses": []
     },
     {
       "institution": "Wake Technical Community College",
+      "location": null,
+      "url": null,
       "area": "Information Technology: Info Technologies Foundations",
       "studyType": "Certificate",
-      "endDate": "2023"
+      "startDate": null,
+      "endDate": "2023",
+      "score": null,
+      "courses": []
     }
   ],
   "awards": [
@@ -97,13 +121,17 @@
       "title": "Dean's List",
       "date": "2025",
       "awarder": "ECPI University",
+      "url": null,
       "summary": "Recognized for high academic performance throughout the duration of my bachelor's degree program at ECPI University.",
+      "icon": null
     },
     {
       "title": "CyberPatriot Competition",
       "date": "2021",
       "awarder": "CyberPatriot",
+      "url": null,
       "summary": "Our team placed 2nd in the NC Gold Tier All-Service division during the 2020-2021 competition.",
+      "icon": null
     }
   ],
   "certificates": [
@@ -185,25 +213,12 @@
       "icon": "./images/certs/ringcentral.png"
     }
   ],
-  "publications": [  ],
-  
-  "volunteer": [
-    {
-      "organization": "Civil Air Patrol",
-      "position": "Logistics NCO, IT Officer, Color Guard Commander, and Flight Commander",
-      "startDate": "2016",
-      "endDate": "2021",
-      "summary": "Volunteered in the Civil Air Patrol cadet program, the auxiliary of the U.S. Air Force. Held staff positions including Logistics NCO, IT Officer, Color Guard Commander, and Flight Commander from 2016 to 2021.",
-      "highlights": [
-        "Held multiple leadership positions within the Civil Air Patrol."
-      ]
-    }
-  ],
+  "publications": [],
   "skills": [
     {
       "name": "Protocols & IP",
-      "level": "",
-      "icon": "",
+      "level": null,
+      "icon": null,
       "keywords": [
         "FTP",
         "DNS",
@@ -220,8 +235,8 @@
     },
     {
       "name": "APIs & Networks",
-      "level": "",
-      "icon": "",
+      "level": null,
+      "icon": null,
       "keywords": [
         "IP addressing",
         "LAN",
@@ -237,9 +252,23 @@
       ]
     },
     {
+      "name": "Operating Systems",
+      "level": null,
+      "icon": null,
+      "keywords": [
+        "Windows 7, 10, and 11",
+        "Ubuntu Linux",
+        "Kali Linux",
+        "macOS, iOS, and iPadOS",
+        "Windows Server 2012-2025",
+        "Cisco IOS",
+        "Android"
+      ]
+    },
+    {
       "name": "Tools and Utilities",
-      "level": "",
-      "icon": "",
+      "level": null,
+      "icon": null,
       "keywords": [
         "PowerShell",
         "Bash",
@@ -254,8 +283,8 @@
     },
     {
       "name": "Managed Software",
-      "level": "",
-      "icon": "",
+      "level": null,
+      "icon": null,
       "keywords": [
         "Azure AD/Entra ID",
         "Active Directory",
@@ -270,8 +299,8 @@
     },
     {
       "name": "Project Management",
-      "level": "",
-      "icon": "",
+      "level": null,
+      "icon": null,
       "keywords": [
         "Slack",
         "Zoom",
@@ -279,20 +308,6 @@
         "Trello",
         "Microsoft Planner",
         "Salesforce"
-      ]
-    },
-    {
-      "name": "Operating Systems",
-      "level": "",
-      "icon": "",
-      "keywords": [
-        "Windows 7, 10, and 11",
-        "Ubuntu Linux",
-        "Kali Linux",
-        "macOS, iOS, and iPadOS",
-        "Windows Server 2012-2025",
-        "Cisco IOS",
-        "Android"
       ]
     }
   ],
