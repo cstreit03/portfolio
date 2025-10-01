@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-how-to-configure-key-expansion-modules-or-sidecars-with-zoom-phones",
-        
-          title: "How to Configure Key Expansion Modules (or Sidecars) with Zoom Phones",
-        
-        description: "A guide on how to configure key expansion modules and sidecars with Zoom Phones for both admins and users.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/zoom-key-expansion-module/";
-          
-        },
-      },{id: "post-2025-cyber-sentinel-challenge-hoasted-toasted-write-up",
+        },{id: "post-2025-cyber-sentinel-challenge-hoasted-toasted-write-up",
         
           title: '2025 Cyber Sentinel Challenge — Hoasted Toasted Write-Up <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
