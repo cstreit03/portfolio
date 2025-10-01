@@ -24,7 +24,7 @@ OR
 <span class="nb">sudo </span>launchctl bootout user/<span class="si">$(</span><span class="nb">id</span> <span class="nt">-u</span> &lt;username&gt;<span class="si">)</span>
 </code></pre></div></div> <h2 id="change-the-hostname">Change the hostname</h2> <p>This is more of a script than a command considering it has so many parts. Make sure to replace “COMPUTER-02” with the desired name.</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
-<span class="c"># Change the below field </span>
+<span class="c"># Change the below field</span>
 <span class="nb">hostname</span><span class="o">=</span>COMPUTER-02
 
 <span class="nb">sudo </span>scutil <span class="nt">--set</span> HostName <span class="nv">$hostname</span>
