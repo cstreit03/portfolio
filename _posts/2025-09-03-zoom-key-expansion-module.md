@@ -5,7 +5,7 @@ date: 2025-09-03 21:01:00
 description: A guide on how to configure key expansion modules and sidecars with Zoom Phones for both admins and users.
 tags: ["Technology", "Cloud", "Guides"]
 categories: ["Tech Guides"]
-thumbnail: assets/img/posts/2025-09-03-zoom-key-expansion-module/3.png
+thumbnail: assets/img/posts/2025-09-03-zoom-key-expansion-module/1.png
 ---
 
 # How to Configure Key Expansion Modules (or Sidecars) with Zoom Phones
@@ -20,28 +20,22 @@ Zoom Phones is quickly becoming the choice VOIP system for thousands of customer
 2.  Navigate to Phone System Management > **Users & Rooms**.
 3.  From the list of users, select the name of the user with the desk phone.
 
-    <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/1.png" class="img-fluid rounded z-depth-1" %}
-        </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/1.png" class="img-fluid rounded z-depth-1" %}
     </div>
 
 4.  Under the user’s profile, click on the **User Settings** tab.
 5.  Scroll down to the **Desk Phone** section.
 6.  Next to the **Keys & Positions** option, click on **View or Edit**.
 
-    <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/2.png" class="img-fluid rounded z-depth-1" %}
-        </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 
 7.  From here, click on the **Manage Key** button to make changes.
 
-    <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/3.png" class="img-fluid rounded z-depth-1" %}
-        </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/3.png" class="img-fluid rounded z-depth-1" %}
     </div>
 
 8.  After making your changes, scroll down and click on **Save**.
@@ -53,27 +47,21 @@ Zoom Phones is quickly becoming the choice VOIP system for thousands of customer
 1.  Login to **[https://www.zoom.us](https://www.zoom.us/)** with the user’s account.
 2.  On the left, click on **Phone** then click the **Settings** tab.
 
-    <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/4.png" class="img-fluid rounded z-depth-1" %}
-        </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/4.png" class="img-fluid rounded z-depth-1" %}
     </div>
 
 3.  Scroll down to the section titled **Desk Phone**.
 4.  Next to **Keys & Positions**, click on **View or Edit**.
 
-    <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/5.png" class="img-fluid rounded z-depth-1" %}
-        </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/5.png" class="img-fluid rounded z-depth-1" %}
     </div>
 
 5.  From here, click on the **Manage Key** button to make changes.
 
-    <div class="row mt-3">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/6.png" class="img-fluid rounded z-depth-1" %}
-        </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2025-09-03-zoom-key-expansion-module/6.png" class="img-fluid rounded z-depth-1" %}
     </div>
 
 6.  After making your changes, scroll down and click on **Save**.
