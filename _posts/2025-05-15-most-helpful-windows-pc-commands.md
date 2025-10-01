@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Most Helpful Commands for Windows Systems
-date: 2025-05-15 21:05:29 -0400
+date: 2025-05-15 21:05:29 -0500
 description: A guide with some of the most helpful commands for Windows 10, Windows 11, and Windows Server machines.
 tags: ["Technology", "Guides"]
 categories: ["Tech Guides"]
