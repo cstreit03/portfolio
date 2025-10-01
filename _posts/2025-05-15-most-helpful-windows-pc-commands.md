@@ -11,12 +11,6 @@ categories: ["Tech Guides"]
 
 This guide includes some of the most helpful commands I have used when working on Windows 10, Windows 11, and Windows Server machines.
 
----
-
-# Most Helpful Commands for Windows Systems
-
-This guide includes some of the most helpful commands I have used when working on Windows 10, Windows 11, and Windows Server machines.
-
 ## Check the battery health level
 
 Manufacturer utilities like Dell SupportAssist can check the battery health, but only check the current output. To check the actual battery health level in terms of maximum battery capacity, run this command and view the report.
